@@ -1,0 +1,596 @@
+{
+  "products": [
+    {
+      "id": "prod-1",
+      "slug": "matte-black-smartwatch-ultra",
+      "sku": "ZX-SW-01",
+      "name": "ম্যাট ব্ল্যাক প্রিমিয়াম স্মার্টওয়াচ আল্ট্রা (AMOLED ডিসপ্লে)",
+      "category": "cat-3",
+      "description": "উচ্চমানের এমোলেড কার্ভড ডিসপ্লে, হার্টরেট মনিটর, স্লিপ ট্র্যাকিং, ব্লুটুথ কলিং এবং ওয়াটারপ্রুফ বডি। ফুল চার্জে একটানা ৭ দিন পর্যন্ত ব্যাটারি ব্যাকআপ। স্টাইলিশ কালো সিলিকন বেল্ট সহ সম্পূর্ণ বক্স প্যাক।",
+      "regularPrice": 2800,
+      "salePrice": 2190,
+      "stock": 23,
+      "images": [
+        "/src/assets/images/product_smartwatch_black_1791605919110.jpg"
+      ],
+      "mainImage": "/src/assets/images/product_smartwatch_black_1791605919110.jpg",
+      "variants": [
+        {
+          "id": "v1",
+          "name": "রং",
+          "options": [
+            "ম্যাট ব্ল্যাক",
+            "স্পেস গ্রে"
+          ]
+        }
+      ],
+      "isFeatured": true,
+      "isPopular": true,
+      "isPublished": true,
+      "rating": 4.9,
+      "reviewCount": 38,
+      "createdAt": "2026-10-10T04:23:54.509Z",
+      "updatedAt": "2026-10-10T14:39:53.217Z"
+    },
+    {
+      "id": "prod-2",
+      "slug": "royal-navy-cotton-panjabi",
+      "sku": "ZX-FSH-02",
+      "name": "রয়্যাল নেভি ব্লু এক্সক্লুসিভ কটন সেমি-লং পাঞ্জাবি",
+      "category": "cat-1",
+      "description": "১০০% পিওর প্রিমিয়াম কটন কাপড়ে প্রস্তুতকৃত মার্জিত ডিজাইনের পাঞ্জাবি। কলার ও প্লেকেটে নিখুঁত সুতার এমব্রয়ডারি কাজ। উৎসব কিংবা সাধারণ ব্যবহারের জন্য অত্যন্ত আরামদায়ক ও আভিজাত্যপূর্ণ।",
+      "regularPrice": 2200,
+      "salePrice": 1750,
+      "stock": 40,
+      "images": [
+        "/src/assets/images/product_panjabi_fashion_1791605930821.jpg"
+      ],
+      "mainImage": "/src/assets/images/product_panjabi_fashion_1791605930821.jpg",
+      "variants": [
+        {
+          "id": "v1",
+          "name": "সাইজ",
+          "options": [
+            "M (40)",
+            "L (42)",
+            "XL (44)",
+            "XXL (46)"
+          ]
+        }
+      ],
+      "isFeatured": true,
+      "isPopular": true,
+      "isPublished": true,
+      "rating": 4.8,
+      "reviewCount": 52,
+      "createdAt": "2026-10-10T04:23:54.509Z",
+      "updatedAt": "2026-10-10T04:23:54.509Z"
+    },
+    {
+      "id": "prod-3",
+      "slug": "aura-botanicals-radiance-serum",
+      "sku": "ZX-COS-03",
+      "name": "অরা বোটানিক্যালস ন্যাচারাল গ্লো রেডিয়েন্স সিরাম (30ml)",
+      "category": "cat-2",
+      "description": "ভিটামিন সি ও হায়ালুরোনিক অ্যাসিড সমৃদ্ধ অর্গানিক গ্লো সিরাম। ত্বকের দাগ ছোপ হালকা করে, আর্দ্রতা ধরে রাখে এবং প্রাকৃতিকভাবে উজ্জ্বলতা ফিরিয়ে আনে। সব ধরনের ত্বকে ব্যবহারের উপযোগী।",
+      "regularPrice": 1450,
+      "salePrice": 1150,
+      "stock": 29,
+      "images": [
+        "/src/assets/images/product_skincare_serum_1791605941479.jpg"
+      ],
+      "mainImage": "/src/assets/images/product_skincare_serum_1791605941479.jpg",
+      "variants": [
+        {
+          "id": "v1",
+          "name": "ভলিউম",
+          "options": [
+            "30ml",
+            "50ml"
+          ]
+        }
+      ],
+      "isFeatured": true,
+      "isPopular": true,
+      "isPublished": true,
+      "rating": 5,
+      "reviewCount": 29,
+      "createdAt": "2026-10-10T04:23:54.509Z",
+      "updatedAt": "2026-10-10T13:47:10.414Z"
+    },
+    {
+      "id": "prod-4",
+      "slug": "wireless-active-noise-cancelling-earbuds",
+      "sku": "ZX-EL-04",
+      "name": "ওয়্যারলেস নয়েজ ক্যানসেলিং বাডস প্রো (Deep Bass)",
+      "category": "cat-3",
+      "description": "অ্যাক্টিভ নয়েজ ক্যানসেলেশন ও ৪ মাইক্রোফোন ক্রিস্টাল ক্লিয়ার কলিং। গেমিংয়ের জন্য লো ল্যাটেন্সি মোড ও টাইপ-সি ফাস্ট চার্জিং সুবিধা। ২০ ঘণ্টারও বেশি কম্বাইন্ড প্লেটাইম।",
+      "regularPrice": 1950,
+      "salePrice": 1550,
+      "stock": 18,
+      "images": [
+        "/src/assets/images/hero_ecommerce_banner_1791605905466.jpg"
+      ],
+      "mainImage": "/src/assets/images/hero_ecommerce_banner_1791605905466.jpg",
+      "variants": [
+        {
+          "id": "v1",
+          "name": "রং",
+          "options": [
+            "সাদা",
+            "কালো"
+          ]
+        }
+      ],
+      "isFeatured": true,
+      "isPopular": true,
+      "isPublished": true,
+      "rating": 4.7,
+      "reviewCount": 41,
+      "createdAt": "2026-10-10T04:23:54.509Z",
+      "updatedAt": "2026-10-10T04:23:54.509Z"
+    },
+    {
+      "id": "prod-5",
+      "slug": "stainless-steel-thermal-water-bottle",
+      "sku": "ZX-HK-05",
+      "name": "ইনসুলেটেড স্টেইনলেস স্টিল ভ্যাকুয়াম বোতল (750ml)",
+      "category": "cat-4",
+      "description": "ডাবল ওয়াল ভ্যাকুয়াম ইনসুলেশন যুক্ত। গরম পানি ১২ ঘণ্টা এবং ঠান্ডা পানি ২৪ ঘণ্টা পর্যন্ত তাপমাত্রা বজায় রাখে। বিপিএ মুক্ত ফুড-গ্রেড ৩১৪ স্টিল। অফিসে বা ভ্রমণে সহজে বহনযোগ্য।",
+      "regularPrice": 850,
+      "salePrice": 650,
+      "stock": 50,
+      "images": [
+        "/src/assets/images/hero_ecommerce_banner_1791605905466.jpg"
+      ],
+      "mainImage": "/src/assets/images/hero_ecommerce_banner_1791605905466.jpg",
+      "variants": [
+        {
+          "id": "v1",
+          "name": "রং",
+          "options": [
+            "ম্যাট ব্ল্যাক",
+            "সিলভার",
+            "নেভি ব্লু"
+          ]
+        }
+      ],
+      "isFeatured": false,
+      "isPopular": true,
+      "isPublished": true,
+      "rating": 4.8,
+      "reviewCount": 19,
+      "createdAt": "2026-10-10T04:23:54.509Z",
+      "updatedAt": "2026-10-10T04:23:54.509Z"
+    },
+    {
+      "id": "prod-6",
+      "slug": "leather-formal-luxury-mens-watch",
+      "sku": "ZX-WAT-06",
+      "name": "ক্লাসিক লেদার স্ট্র্যাপ জেন্টলম্যান অ্যানালগ ওয়াচ",
+      "category": "cat-5",
+      "description": "জাপানিজ কোয়ার্টজ মুভমেন্ট, স্ক্র্যাচ-রেজিস্ট্যান্ট স্যাফায়ার গ্লাস এবং প্রিমিয়াম জেনুইন লেদার স্ট্র্যাপ। ৩ বার ওয়াটার রেজিস্ট্যান্স ও অটো ডেট ডিসপ্লে সুবিধা। ১ বছরের ওয়ারেন্টি।",
+      "regularPrice": 2400,
+      "salePrice": 1890,
+      "stock": 12,
+      "images": [
+        "/src/assets/images/product_smartwatch_black_1791605919110.jpg"
+      ],
+      "mainImage": "/src/assets/images/product_smartwatch_black_1791605919110.jpg",
+      "variants": [
+        {
+          "id": "v1",
+          "name": "ডায়াল রং",
+          "options": [
+            "সাদা ডায়াল",
+            "কালো ডায়াল"
+          ]
+        }
+      ],
+      "isFeatured": true,
+      "isPopular": false,
+      "isPublished": true,
+      "rating": 4.9,
+      "reviewCount": 15,
+      "createdAt": "2026-10-10T04:23:54.509Z",
+      "updatedAt": "2026-10-10T04:23:54.509Z"
+    },
+    {
+      "id": "prod-7",
+      "slug": "montessori-wooden-educational-toy",
+      "sku": "ZX-BB-07",
+      "name": "মনটেসরি কাঠের এডুকেশনাল লার্নিং পাজল সেট",
+      "category": "cat-6",
+      "description": "বাচ্চাদের মেধা বিকাশ ও মনোযোগ বৃদ্ধির জন্য নিখুঁত কাঠের বর্ণমালা ও সংখ্যার পাজল। সম্পূর্ণ নন-টক্সিক ও পরিবেশবান্ধব রঙে প্রস্তুত, ধারালো কোনো প্রান্ত নেই। ২ থেকে ৬ বছর বয়সী বাচ্চাদের জন্য আদর্শ।",
+      "regularPrice": 950,
+      "salePrice": 750,
+      "stock": 22,
+      "images": [
+        "/src/assets/images/hero_ecommerce_banner_1791605905466.jpg"
+      ],
+      "mainImage": "/src/assets/images/hero_ecommerce_banner_1791605905466.jpg",
+      "variants": [],
+      "isFeatured": false,
+      "isPopular": true,
+      "isPublished": true,
+      "rating": 4.9,
+      "reviewCount": 22,
+      "createdAt": "2026-10-10T04:23:54.509Z",
+      "updatedAt": "2026-10-10T04:23:54.510Z"
+    },
+    {
+      "id": "prod-8",
+      "slug": "adjustable-hand-grip-gym-fitness",
+      "sku": "ZX-SPT-08",
+      "name": "অ্যাডজাস্টেবল হ্যান্ড গ্রিপ স্ট্রেন্থেনার (10-60 KG)",
+      "category": "cat-7",
+      "description": "১০ থেকে ৬০ কেজি পর্যন্ত রেজিস্ট্যান্স অ্যাডজাস্টেবল মেকানিকাল কাউন্টার সহ ফিটনেস গ্রিপার। হাত ও কব্জির শক্তি বৃদ্ধির জন্য প্রতিদিনের শরীরচর্চায় অত্যন্ত কার্যকর।",
+      "regularPrice": 550,
+      "salePrice": 390,
+      "stock": 60,
+      "images": [
+        "/src/assets/images/hero_ecommerce_banner_1791605905466.jpg"
+      ],
+      "mainImage": "/src/assets/images/hero_ecommerce_banner_1791605905466.jpg",
+      "variants": [
+        {
+          "id": "v1",
+          "name": "রং",
+          "options": [
+            "কালো",
+            "কমলা",
+            "নীল"
+          ]
+        }
+      ],
+      "isFeatured": false,
+      "isPopular": true,
+      "isPublished": true,
+      "rating": 4.6,
+      "reviewCount": 34,
+      "createdAt": "2026-10-10T04:23:54.510Z",
+      "updatedAt": "2026-10-11T14:05:48.449Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-1",
+      "slug": "fashion-clothing",
+      "name": "পোশাক ও ফ্যাশন",
+      "banglaName": "পোশাক ও ফ্যাশন",
+      "icon": "Shirt",
+      "isPublished": true,
+      "order": 1
+    },
+    {
+      "id": "cat-2",
+      "slug": "cosmetics-skincare",
+      "name": "কসমেটিকস ও স্কিনকেয়ার",
+      "banglaName": "কসমেটিকস ও স্কিনকেয়ার",
+      "icon": "Sparkles",
+      "isPublished": true,
+      "order": 2
+    },
+    {
+      "id": "cat-3",
+      "slug": "electronics-gadgets",
+      "name": "ইলেকট্রনিকস ও গ্যাজেট",
+      "banglaName": "ইলেকট্রনিকস ও গ্যাজেট",
+      "icon": "Smartphone",
+      "isPublished": true,
+      "order": 3
+    },
+    {
+      "id": "cat-4",
+      "slug": "home-kitchen",
+      "name": "হোম ও কিচেন",
+      "banglaName": "হোম ও কিচেন",
+      "icon": "Home",
+      "isPublished": true,
+      "order": 4
+    },
+    {
+      "id": "cat-5",
+      "slug": "watches-accessories",
+      "name": "ঘড়ি ও অ্যাকসেসরিজ",
+      "banglaName": "ঘড়ি ও অ্যাকসেসরিজ",
+      "icon": "Watch",
+      "isPublished": true,
+      "order": 5
+    },
+    {
+      "id": "cat-6",
+      "slug": "baby-kids",
+      "name": "বেবি ও কিডস",
+      "banglaName": "বেবি ও কিডস",
+      "icon": "Baby",
+      "isPublished": true,
+      "order": 6
+    },
+    {
+      "id": "cat-7",
+      "slug": "sports-fitness",
+      "name": "স্পোর্টস ও ফিটনেস",
+      "banglaName": "স্পোর্টস ও ফিটনেস",
+      "icon": "Dumbbell",
+      "isPublished": true,
+      "order": 7
+    },
+    {
+      "id": "cat-8",
+      "slug": "stationery-others",
+      "name": "স্টেশনারি ও অন্যান্য",
+      "banglaName": "স্টেশনারি ও অন্যান্য",
+      "icon": "BookOpen",
+      "isPublished": true,
+      "order": 8
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-1791643193217-974",
+      "orderNumber": "ZX-3217974",
+      "customer": {
+        "fullName": "আহমেদ হাসান",
+        "phone": "01798765432",
+        "division": "",
+        "district": "",
+        "deliveryArea": "ঢাকা সিটির ভিতরে",
+        "fullAddress": "মিরপুর ১০, ব্লক সি, রোড ২, ঢাকা",
+        "notes": "বিকেলের মধ্যে ডেলিভারি দিলে ভালো হয়"
+      },
+      "items": [
+        {
+          "productId": "prod-1",
+          "name": "ম্যাট ব্ল্যাক প্রিমিয়াম স্মার্টওয়াচ আল্ট্রা (AMOLED ডিসপ্লে)",
+          "sku": "ZX-SW-01",
+          "price": 2190,
+          "quantity": 1,
+          "image": "/src/assets/images/product_smartwatch_black_1791605919110.jpg",
+          "selectedVariants": {},
+          "total": 2190
+        }
+      ],
+      "subtotal": 2190,
+      "discount": 0,
+      "deliveryCharge": 60,
+      "deliveryZoneName": "ঢাকা সিটির ভিতরে",
+      "totalAmount": 2250,
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "orderStatus": "pending",
+      "createdAt": "2026-10-10T14:39:53.217Z",
+      "updatedAt": "2026-10-10T14:39:53.217Z",
+      "statusHistory": [
+        {
+          "status": "pending",
+          "timestamp": "2026-10-10T14:39:53.217Z",
+          "note": "অর্ডারটি সফলভাবে জমা নেওয়া হয়েছে। খুব শীঘ্রই আমাদের প্রতিনিধি কল দিয়ে নিশ্চিত করবেন।"
+        }
+      ],
+      "emailNotificationStatus": "not_configured",
+      "emailNotificationError": "SMTP credentials not configured (SMTP_USER / SMTP_PASS required). Configure these in .env or Admin Settings to receive Gmail notifications."
+    },
+    {
+      "id": "ord-1791640030414-492",
+      "orderNumber": "ZX-0414492",
+      "customer": {
+        "fullName": "Mohammad",
+        "phone": "01644633815",
+        "division": "ঢাকা (Dhaka)",
+        "district": "Daka",
+        "deliveryArea": "ঢাকা সিটির ভিতরে",
+        "fullAddress": "পদুয়া লোহাগড়া উপজেলার",
+        "notes": ""
+      },
+      "items": [
+        {
+          "productId": "prod-3",
+          "name": "অরা বোটানিক্যালস ন্যাচারাল গ্লো রেডিয়েন্স সিরাম (30ml)",
+          "sku": "ZX-COS-03",
+          "price": 1150,
+          "quantity": 1,
+          "image": "/src/assets/images/product_skincare_serum_1791605941479.jpg",
+          "selectedVariants": {},
+          "total": 1150
+        },
+        {
+          "productId": "prod-8",
+          "name": "অ্যাডজাস্টেবল হ্যান্ড গ্রিপ স্ট্রেন্থেনার (10-60 KG)",
+          "sku": "ZX-SPT-08",
+          "price": 390,
+          "quantity": 1,
+          "image": "/src/assets/images/hero_ecommerce_banner_1791605905466.jpg",
+          "selectedVariants": {
+            "রং": "নীল"
+          },
+          "total": 390
+        }
+      ],
+      "subtotal": 1540,
+      "discount": 0,
+      "deliveryCharge": 60,
+      "deliveryZoneName": "ঢাকা সিটির ভিতরে",
+      "totalAmount": 1600,
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "orderStatus": "pending",
+      "createdAt": "2026-10-10T13:47:10.414Z",
+      "updatedAt": "2026-10-10T13:47:10.414Z",
+      "statusHistory": [
+        {
+          "status": "pending",
+          "timestamp": "2026-10-10T13:47:10.414Z",
+          "note": "অর্ডারটি সফলভাবে জমা নেওয়া হয়েছে। খুব শীঘ্রই আমাদের প্রতিনিধি কল দিয়ে নিশ্চিত করবেন।"
+        }
+      ]
+    },
+    {
+      "id": "ord-1791607011439-276",
+      "orderNumber": "ZX-1439276",
+      "customer": {
+        "fullName": "পরীক্ষামূলক কাস্টমার",
+        "phone": "01712345678",
+        "division": "ঢাকা (Dhaka)",
+        "district": "ঢাকা",
+        "deliveryArea": "ঢাকা সিটির ভিতরে",
+        "fullAddress": "মিরপুর ১০, ঢাকা",
+        "notes": ""
+      },
+      "items": [
+        {
+          "productId": "prod-1",
+          "name": "ম্যাট ব্ল্যাক প্রিমিয়াম স্মার্টওয়াচ আল্ট্রা (AMOLED ডিসপ্লে)",
+          "sku": "ZX-SW-01",
+          "price": 2190,
+          "quantity": 1,
+          "image": "/src/assets/images/product_smartwatch_black_1791605919110.jpg",
+          "selectedVariants": {},
+          "total": 2190
+        }
+      ],
+      "subtotal": 2190,
+      "discount": 0,
+      "deliveryCharge": 60,
+      "deliveryZoneName": "ঢাকা সিটির ভিতরে",
+      "totalAmount": 2250,
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "orderStatus": "pending",
+      "createdAt": "2026-10-10T04:36:51.439Z",
+      "updatedAt": "2026-10-10T04:36:51.439Z",
+      "statusHistory": [
+        {
+          "status": "pending",
+          "timestamp": "2026-10-10T04:36:51.439Z",
+          "note": "অর্ডারটি সফলভাবে জমা নেওয়া হয়েছে। খুব শীঘ্রই আমাদের প্রতিনিধি কল দিয়ে নিশ্চিত করবেন।"
+        }
+      ]
+    }
+  ],
+  "deliveryZones": [
+    {
+      "id": "zone-1",
+      "name": "ঢাকা সিটির ভিতরে",
+      "rate": 60,
+      "estimatedDays": "১–২ দিন",
+      "isActive": true
+    },
+    {
+      "id": "zone-2",
+      "name": "ঢাকা সাব-এরিয়া (গাজীপুর/সাভার/কেরানীগঞ্জ)",
+      "rate": 100,
+      "estimatedDays": "২–৩ দিন",
+      "isActive": true
+    },
+    {
+      "id": "zone-3",
+      "name": "ঢাকার বাইরে (সমগ্র বাংলাদেশ)",
+      "rate": 130,
+      "estimatedDays": "৩–৫ দিন",
+      "isActive": true
+    }
+  ],
+  "coupons": [
+    {
+      "code": "ZX10",
+      "discountType": "percentage",
+      "discountValue": 10,
+      "minOrderAmount": 1000,
+      "isActive": true
+    },
+    {
+      "code": "WELCOME50",
+      "discountType": "fixed",
+      "discountValue": 50,
+      "minOrderAmount": 500,
+      "isActive": true
+    },
+    {
+      "code": "FREE60",
+      "discountType": "fixed",
+      "discountValue": 60,
+      "minOrderAmount": 2000,
+      "isActive": true
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "productId": "prod-1",
+      "productName": "ম্যাট ব্ল্যাক প্রিমিয়াম স্মার্টওয়াচ আল্ট্রা",
+      "customerName": "তানভীর আহমেদ",
+      "rating": 5,
+      "comment": "অসাধারণ বিল্ড কোয়ালিটি! ব্যাটারি ব্যাকআপ এক সপ্তাহেও শেষ হয়নি। ডিসপ্লে অনেক শার্প। ধানমন্ডিতে ২ দিনের মধ্যে ডেলিভারি পেয়েছি।",
+      "isApproved": true,
+      "createdAt": "2026-10-08T04:23:54.510Z"
+    },
+    {
+      "id": "rev-2",
+      "productId": "prod-2",
+      "productName": "রয়্যাল নেভি ব্লু এক্সক্লুসিভ কটন পাঞ্জাবি",
+      "customerName": "মেহেদী হাসান",
+      "rating": 5,
+      "comment": "কাপড়টা যেমন চেয়েছিলাম ঠিক তেমনই সফট ও আরামদায়ক। সাইজ একবারে পারফেক্ট এসেছে। ক্যাশ অন ডেলিভারিতে চেক করে নিতে পেরে নিশ্চিন্ত ছিলাম।",
+      "isApproved": true,
+      "createdAt": "2026-10-06T04:23:54.510Z"
+    },
+    {
+      "id": "rev-3",
+      "productId": "prod-3",
+      "productName": "অরা বোটানিক্যালস ন্যাচারাল গ্লো রেডিয়েন্স সিরাম",
+      "customerName": "ফারজানা ইয়াসমিন",
+      "rating": 5,
+      "comment": "১০০% অরিজিনাল প্রডাক্ট! প্যাকেজিং অনেক সুন্দর ছিল। নিয়মিত ব্যবহারে ত্বকের গ্লো অনেক বেড়েছে। ধন্যবাদ ZX Shop!",
+      "isApproved": true,
+      "createdAt": "2026-10-04T04:23:54.510Z"
+    }
+  ],
+  "settings": {
+    "storeName": "ZX Shop",
+    "storeTagline": "আপনার পছন্দের অনলাইন শপ",
+    "logoUrl": "",
+    "contactPhone": "+880 1711-234567",
+    "whatsappNumber": "+880 1711-234567",
+    "email": "support@zxshop.com.bd",
+    "address": "বাড়ি #১২, রোড #০৫, ধানমন্ডি, ঢাকা-১২০৫, বাংলাদেশ",
+    "bkashNumber": "01711234567",
+    "bkashType": "Personal",
+    "nagadNumber": "01711234567",
+    "nagadType": "Personal",
+    "freeDeliveryThreshold": 3000,
+    "announcementNotice": "🎉 সমগ্র বাংলাদেশে হোম ডেলিভারি ও ক্যাশ অন ডেলিভারি সুবিধা! ৩০০০ টাকার অর্ডারে ফ্রি ডেলিভারি!",
+    "bannerTitle": "আধুনিক লাইফস্টাইল ও প্রিমিয়াম প্রডাক্ট কালেকশন",
+    "bannerSubtitle": "১০০% খাঁটি পণ্য, দ্রুততম ডেলিভারি এবং সহজ রিটার্ন সুবিধা নিয়ে ZX Shop রয়েছে আপনার পাশে।",
+    "bannerImage": "/src/assets/images/hero_ecommerce_banner_1791605905466.jpg",
+    "facebookUrl": "https://facebook.com",
+    "instagramUrl": "https://instagram.com",
+    "youtubeUrl": "https://youtube.com",
+    "aboutStory": "ZX Shop বাংলাদেশের একটি বিশ্বস্ত ও আধুনিক অনলাইন শপ। আমরা গ্রাহকদের জন্য সেরা মানের লাইফস্টাইল, ফ্যাশন, কসমেটিকস ও গ্যাজেট পণ্য সরাসরি সঠিক মূল্যে সরবরাহ করি। আমাদের মূল লক্ষ্য হল শতভাগ কাস্টমার সন্তুষ্টি এবং নির্ভেজাল শপিং অভিজ্ঞতা প্রদান করা।",
+    "privacyPolicy": "আমরা আপনার ব্যক্তিগত তথ্যের সর্বোচ্চ গোপনীয়তা রক্ষা করি। অর্ডার প্রক্রিয়াকরণ ও ডেলিভারি ব্যতীত কোনো তৃতীয় পক্ষের কাছে আপনার ডেটা প্রকাশ করা হয় না।",
+    "termsConditions": "পণ্য গ্রহণের সময় ডেলিভারি এজেন্টের সামনে ভালো করে দেখে গ্রহণ করুন। কোনো প্রকার ত্রুটি বা সমস্যা থাকলে তাৎক্ষণিকভাবে কাস্টমার কেয়ারে যোগাযোগ করার অনুরোধ করা যাচ্ছে।",
+    "returnPolicy": "পণ্য ডেলিভারির ৩ দিনের মধ্যে কোনো সমস্যা থাকলে অক্ষত প্যাকেজিংসহ পরিবর্তনের অনুরোধ করতে পারেন। জেনুইন সমস্যার ক্ষেত্রে বিনা খরচে পরিবর্তন করা হবে।",
+    "metaTitle": "ZX Shop – আধুনিক ও সম্পূর্ণ বাংলা অনলাইন শপ",
+    "metaDescription": "বাংলাদেশের সেরা ই-কমার্স প্ল্যাটফর্ম ZX Shop। পোশাক, কসমেটিকস, ইলেকট্রনিক্স ও গ্যাজেট ঘরে বসে অর্ডার করুন। ক্যাশ অন ডেলিভারি সহজলভ্য।",
+    "adminNotificationEmail": "mdmohammad.644633815@gmail.com",
+    "smtpUser": "zxshop.official@gmail.com",
+    "smtpPass": "abcdefghijklmnop",
+    "smtpHost": "smtp.gmail.com",
+    "smtpPort": 465
+  },
+  "adminCredentials": {
+    "username": "admin",
+    "passwordHash": "62eb47aa85bce734f6ecf28ee47cedc287ba80e9be31729d40a5d640c8f8f2a0",
+    "salt": "zx_shop_salt_2026"
+  },
+  "adminSessions": [
+    "3c5c3435d6aedee4354ae0b9a7a18259294afcbf87ce65e2aa60c8185d2423c3",
+    "3976c691e9bcd7910476572c4caa967cc100ab79990834e073155fb4b332d236",
+    "55c737c40dfedd5330ef78e6e9d3de75d3ade341f9ad74bd503a74397f50540d",
+    "5c90876201c445b001a1d14f65992bef5b2ae5729f2a9262e589abfaa7b4e75c",
+    "97488609638a6a87f000ab4feac87de6ac09b8b77bf55fb27d149473a8113144",
+    "340647b377695e4bc48f3b5ebc7854d793f251a0a5aaf91348daf1d54555ded6",
+    "f3e5c45823ea8bab60c38f99faebed091fd8dfcd11718f8cd0479caea2473f92",
+    "9faa751357caacce3ed7d3061ef320b0a53dc3e864d5688e4bab5c0d6f9650b2"
+  ]
+}

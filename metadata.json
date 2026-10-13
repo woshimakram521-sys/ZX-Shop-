@@ -1,0 +1,6 @@
+{
+  "name": "ZX Shop – বাংলা ই-কমার্স",
+  "description": "ZX Shop - আধুনিক ও সম্পূর্ণ বাংলা মাল্টি-ক্যাটাগরি অনলাইন শপ। ক্যাশ অন ডেলিভারি, বিকাশ ও নগদ পেমেন্ট সুবিধা।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

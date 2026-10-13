@@ -1,0 +1,337 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Hind Siliguri', 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    background-color: #f2f5fa;
+    color: #1e293b;
+    overflow-x: hidden;
+  }
+}
+
+/* ========================================================
+   PREMIUM CLAYMORPHISM 3D DESIGN SYSTEM (ZX SHOP)
+   Color Palette: Soft Lavender, Sky Blue, Mint Green, Peach, Clean White
+======================================================== */
+
+/* Base 3D Tactile Clay Card */
+.clay-card {
+  background: #ffffff;
+  border-radius: 1.5rem;
+  box-shadow: 
+    8px 12px 24px rgba(160, 175, 205, 0.22),
+    -7px -7px 18px rgba(255, 255, 255, 0.95),
+    inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+    inset -1px -1px 2px rgba(180, 195, 215, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.95);
+  transition: transform 0.22s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.22s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.clay-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 
+    10px 16px 28px rgba(160, 175, 205, 0.28),
+    -8px -8px 20px rgba(255, 255, 255, 1),
+    inset 1px 1px 2px rgba(255, 255, 255, 0.95),
+    inset -1px -1px 2px rgba(180, 195, 215, 0.12);
+}
+
+/* Flat / Subtle Clay Card */
+.clay-card-flat {
+  background: #ffffff;
+  border-radius: 1.25rem;
+  box-shadow: 
+    5px 7px 16px rgba(165, 180, 205, 0.18),
+    -5px -5px 14px rgba(255, 255, 255, 0.95),
+    inset 1px 1px 2px rgba(255, 255, 255, 0.85);
+  border: 1px solid rgba(255, 255, 255, 0.9);
+}
+
+/* Palette 1: Soft Lavender Clay */
+.clay-card-lavender {
+  background: linear-gradient(135deg, #ffffff 15%, #f5f3ff 60%, #ede9fe 100%);
+  border-radius: 1.5rem;
+  box-shadow: 
+    7px 10px 22px rgba(196, 181, 253, 0.28),
+    -6px -6px 16px rgba(255, 255, 255, 0.95),
+    inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+    inset -1px -1px 2px rgba(196, 181, 253, 0.2);
+  border: 1px solid rgba(237, 233, 254, 0.85);
+  transition: transform 0.22s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.22s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.clay-card-lavender:hover {
+  transform: translateY(-2px);
+  box-shadow: 
+    9px 13px 26px rgba(196, 181, 253, 0.36),
+    -6px -6px 18px rgba(255, 255, 255, 1);
+}
+
+/* Palette 2: Sky Blue Clay */
+.clay-card-skyblue {
+  background: linear-gradient(135deg, #ffffff 15%, #f0f9ff 60%, #e0f2fe 100%);
+  border-radius: 1.5rem;
+  box-shadow: 
+    7px 10px 22px rgba(186, 230, 253, 0.28),
+    -6px -6px 16px rgba(255, 255, 255, 0.95),
+    inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+    inset -1px -1px 2px rgba(186, 230, 253, 0.2);
+  border: 1px solid rgba(224, 242, 254, 0.85);
+  transition: transform 0.22s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.22s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.clay-card-skyblue:hover {
+  transform: translateY(-2px);
+  box-shadow: 
+    9px 13px 26px rgba(186, 230, 253, 0.36),
+    -6px -6px 18px rgba(255, 255, 255, 1);
+}
+
+/* Palette 3: Mint Green Clay */
+.clay-card-mint {
+  background: linear-gradient(135deg, #ffffff 15%, #f0fdf4 60%, #dcfce7 100%);
+  border-radius: 1.5rem;
+  box-shadow: 
+    7px 10px 22px rgba(187, 247, 208, 0.28),
+    -6px -6px 16px rgba(255, 255, 255, 0.95),
+    inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+    inset -1px -1px 2px rgba(187, 247, 208, 0.2);
+  border: 1px solid rgba(220, 252, 231, 0.85);
+  transition: transform 0.22s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.22s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.clay-card-mint:hover {
+  transform: translateY(-2px);
+  box-shadow: 
+    9px 13px 26px rgba(187, 247, 208, 0.36),
+    -6px -6px 18px rgba(255, 255, 255, 1);
+}
+
+/* Palette 4: Peach Clay */
+.clay-card-peach {
+  background: linear-gradient(135deg, #ffffff 15%, #fff7ed 60%, #ffedd5 100%);
+  border-radius: 1.5rem;
+  box-shadow: 
+    7px 10px 22px rgba(254, 215, 170, 0.28),
+    -6px -6px 16px rgba(255, 255, 255, 0.95),
+    inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+    inset -1px -1px 2px rgba(254, 215, 170, 0.2);
+  border: 1px solid rgba(255, 237, 213, 0.85);
+  transition: transform 0.22s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.22s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.clay-card-peach:hover {
+  transform: translateY(-2px);
+  box-shadow: 
+    9px 13px 26px rgba(254, 215, 170, 0.36),
+    -6px -6px 18px rgba(255, 255, 255, 1);
+}
+
+/* Clay Inset for Inputs, Search Bars, Steppers and Depressed Panels */
+.clay-inset {
+  background: #edf2f7;
+  border-radius: 1rem;
+  box-shadow: 
+    inset 3px 3px 6px rgba(160, 175, 200, 0.3),
+    inset -3px -3px 6px rgba(255, 255, 255, 0.95);
+  border: 1px solid rgba(226, 232, 240, 0.8);
+  transition: box-shadow 0.2s ease, border-color 0.2s ease, background-color 0.2s ease;
+}
+
+.clay-inset:focus-within {
+  background: #ffffff;
+  box-shadow: 
+    inset 2px 2px 5px rgba(160, 175, 200, 0.35),
+    inset -2px -2px 5px rgba(255, 255, 255, 1),
+    0 0 0 2px rgba(225, 29, 72, 0.25);
+  border-color: rgba(225, 29, 72, 0.5);
+}
+
+/* ========================================================
+   TACTILE 3D BUTTONS
+======================================================== */
+
+/* Primary Tactile Button (Rose Coral) */
+.clay-btn-primary {
+  background: linear-gradient(135deg, #f43f5e 0%, #e11d48 100%);
+  color: #ffffff;
+  font-weight: 700;
+  border-radius: 1rem;
+  box-shadow: 
+    5px 7px 16px rgba(225, 29, 72, 0.32),
+    -3px -3px 8px rgba(255, 255, 255, 0.6),
+    inset 1px 1px 2px rgba(255, 255, 255, 0.4);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  transition: all 0.18s cubic-bezier(0.16, 1, 0.3, 1);
+  cursor: pointer;
+}
+
+.clay-btn-primary:hover {
+  transform: translateY(-1px);
+  box-shadow: 
+    6px 9px 20px rgba(225, 29, 72, 0.42),
+    -3px -3px 8px rgba(255, 255, 255, 0.75);
+}
+
+.clay-btn-primary:active {
+  transform: translateY(1px);
+  box-shadow: 
+    2px 2px 6px rgba(225, 29, 72, 0.35),
+    inset 2px 2px 5px rgba(0, 0, 0, 0.25);
+}
+
+/* Secondary Neutral 3D Button */
+.clay-btn-secondary {
+  background: #ffffff;
+  color: #1e293b;
+  font-weight: 700;
+  border-radius: 1rem;
+  box-shadow: 
+    4px 6px 14px rgba(165, 180, 205, 0.24),
+    -4px -4px 12px rgba(255, 255, 255, 0.95),
+    inset 1px 1px 2px rgba(255, 255, 255, 0.95);
+  border: 1px solid rgba(241, 245, 249, 0.9);
+  transition: all 0.18s cubic-bezier(0.16, 1, 0.3, 1);
+  cursor: pointer;
+}
+
+.clay-btn-secondary:hover {
+  background: #f8fafc;
+  transform: translateY(-1px);
+  box-shadow: 
+    5px 8px 18px rgba(165, 180, 205, 0.32),
+    -4px -4px 12px rgba(255, 255, 255, 1);
+}
+
+.clay-btn-secondary:active {
+  transform: translateY(1px);
+  box-shadow: inset 2px 2px 5px rgba(165, 180, 205, 0.3);
+}
+
+/* Mint Emerald Tactile Button */
+.clay-btn-mint {
+  background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+  color: #ffffff;
+  font-weight: 700;
+  border-radius: 1rem;
+  box-shadow: 
+    4px 6px 14px rgba(5, 150, 105, 0.3),
+    -3px -3px 8px rgba(255, 255, 255, 0.6),
+    inset 1px 1px 2px rgba(255, 255, 255, 0.4);
+  transition: all 0.18s cubic-bezier(0.16, 1, 0.3, 1);
+  cursor: pointer;
+}
+
+.clay-btn-mint:hover {
+  transform: translateY(-1px);
+  box-shadow: 
+    5px 8px 18px rgba(5, 150, 105, 0.4),
+    -3px -3px 8px rgba(255, 255, 255, 0.7);
+}
+
+.clay-btn-mint:active {
+  transform: translateY(1px);
+  box-shadow: 
+    2px 2px 5px rgba(5, 150, 105, 0.3),
+    inset 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Sky Blue Tactile Button */
+.clay-btn-sky {
+  background: linear-gradient(135deg, #0284c7 0%, #0369a1 100%);
+  color: #ffffff;
+  font-weight: 700;
+  border-radius: 1rem;
+  box-shadow: 
+    4px 6px 14px rgba(2, 132, 199, 0.3),
+    -3px -3px 8px rgba(255, 255, 255, 0.6),
+    inset 1px 1px 2px rgba(255, 255, 255, 0.4);
+  transition: all 0.18s cubic-bezier(0.16, 1, 0.3, 1);
+  cursor: pointer;
+}
+
+.clay-btn-sky:hover {
+  transform: translateY(-1px);
+  box-shadow: 
+    5px 8px 18px rgba(2, 132, 199, 0.4),
+    -3px -3px 8px rgba(255, 255, 255, 0.7);
+}
+
+.clay-btn-sky:active {
+  transform: translateY(1px);
+  box-shadow: 
+    2px 2px 5px rgba(2, 132, 199, 0.3),
+    inset 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Soft Lavender Tactile Button */
+.clay-btn-lavender {
+  background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%);
+  color: #ffffff;
+  font-weight: 700;
+  border-radius: 1rem;
+  box-shadow: 
+    4px 6px 14px rgba(124, 58, 237, 0.3),
+    -3px -3px 8px rgba(255, 255, 255, 0.6),
+    inset 1px 1px 2px rgba(255, 255, 255, 0.4);
+  transition: all 0.18s cubic-bezier(0.16, 1, 0.3, 1);
+  cursor: pointer;
+}
+
+.clay-btn-lavender:hover {
+  transform: translateY(-1px);
+  box-shadow: 
+    5px 8px 18px rgba(124, 58, 237, 0.4),
+    -3px -3px 8px rgba(255, 255, 255, 0.7);
+}
+
+/* Warm Peach Tactile Button */
+.clay-btn-peach {
+  background: linear-gradient(135deg, #f97316 0%, #ea580c 100%);
+  color: #ffffff;
+  font-weight: 700;
+  border-radius: 1rem;
+  box-shadow: 
+    4px 6px 14px rgba(234, 88, 12, 0.3),
+    -3px -3px 8px rgba(255, 255, 255, 0.6),
+    inset 1px 1px 2px rgba(255, 255, 255, 0.4);
+  transition: all 0.18s cubic-bezier(0.16, 1, 0.3, 1);
+  cursor: pointer;
+}
+
+.clay-btn-peach:hover {
+  transform: translateY(-1px);
+  box-shadow: 
+    5px 8px 18px rgba(234, 88, 12, 0.4),
+    -3px -3px 8px rgba(255, 255, 255, 0.7);
+}
+
+/* Tactile 3D Badges */
+.clay-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+  padding: 0.25rem 0.625rem;
+  border-radius: 9999px;
+  font-size: 0.6875rem;
+  font-weight: 800;
+  box-shadow: 
+    2px 3px 6px rgba(165, 180, 205, 0.18),
+    -2px -2px 6px rgba(255, 255, 255, 0.9),
+    inset 1px 1px 1px rgba(255, 255, 255, 0.8);
+}
+
+/* Number display with tabular numerals */
+.num-bn {
+  font-family: 'Hind Siliguri', 'Plus Jakarta Sans', monospace;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Custom Scrollbar for Smooth Touch & Horizontal Scroll */
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
